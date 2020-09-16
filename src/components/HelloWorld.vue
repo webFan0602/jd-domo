@@ -1,9 +1,6 @@
 <template>
   <div class="hello">
-    <h3>郭伟中午吃凉皮</h3>
-    <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
-    <h6>我是罗浩滨</h6>
+    <h1>草泥马 再不好砸死你</h1>
   </div>
 </template>
 
